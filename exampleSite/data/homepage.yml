@@ -1,8 +1,8 @@
 #################### Banner #####################
 banner:
   enable : true
-  title : "Advancement is Omega"
-  content : "Solving the problems of today to see a tomorrow worth living and a past worth remembering."
+  title : "North West Youth portal"
+  content : "Honset ethee was the best in the province"
   image : "images/hero-image/hero-slider-01.jpg"
   button:
     enable : true
