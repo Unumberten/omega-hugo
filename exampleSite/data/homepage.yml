@@ -1,7 +1,7 @@
 #################### Banner #####################
 banner:
   enable : true
-  title : "Darkblue Neural Networks and technologys"
+  title : "Darkblue Neural Networks"
   content : "Software development, Web development"
   image : "images/hero-image/hero-slider-01.jpg"
   button:
