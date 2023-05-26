@@ -1,8 +1,8 @@
 #################### Banner #####################
 banner:
   enable : true
-  title : "North West Youth portal"
-  content : "Honset ethee was the best in the province"
+  title : "Darkblue Neural Networks and technologys"
+  content : "Software development, Web development"
   image : "images/hero-image/hero-slider-01.jpg"
   button:
     enable : true
