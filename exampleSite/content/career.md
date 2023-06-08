@@ -1,5 +1,5 @@
 ---
-title : "Career"
+title : "Get the App"
 layout: "career"
 description: "Do what you enjoy, invest for your future and reap the benefits of working with the worlds first advancement company that puts people first."
 
@@ -7,7 +7,7 @@ description: "Do what you enjoy, invest for your future and reap the benefits of
 ######### about ###############
 about:
   enable : true
-  title : "Who we're looking for"
+  title : "Get the app"
   content : "Bright, educated and hard working individuals who put professionalism first."
   video_thumb : "images/promo-video-thumbnail.jpg"
   video_id : "g3-VxLQO7do"
