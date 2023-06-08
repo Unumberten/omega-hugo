@@ -14,7 +14,8 @@ mission:
   enable : true
   title : "Propel Advancement"
   section : "MISSION"
-  content : "Introducing the world’s first Advancement Company. As we enter the dawn of the digital age a significant leap must be made to propel the world into the age of advancement."
+  content : "We created a weather monitering and we want to upscale it to climate modeling system that would predict the impact of climate change to food security in the next coming ten years and try to mitigate the effects of the fluctuating weather to our industries, agriculture and biodiversity.
+."
   video_thumb: "images/video-thumb.jpg"
   video_id: "ResipmZmpDU"
 
@@ -26,15 +27,15 @@ vision:
   vision_item:
   - title : "People First"
     image : "images/vision/vision-01.jpg"
-    content : "I started with a vision of creating an atmosphere where people come first. <br>Paul Sanar Founder"
+    content : "I started with a vision of creating a better world for the next generation. <br>Honest Gceba"
     
   - title : "Employee Culture"
     image : "images/vision/vision-02.jpg"
-    content : "I started with a vision of creating an atmosphere where people come first. <br>Paul Sanar Founder"
+    content : "I started with a vision of creating an atmosphere where people come first. <br>Morekolodi Mankuroane"
     
   - title : "The Omega Way"
     image : "images/vision/vision-03.jpg"
-    content : "I started with a vision of creating an atmosphere where people come first. <br>Paul Sanar Founder"
+    content : "I believed in my brothers vision of a better world. <br>Grace Gceba"
 
 
 #################### product ####################
