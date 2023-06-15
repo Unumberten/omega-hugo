@@ -43,7 +43,7 @@ product:
   enable : true
   section : "Products"
   title : "Some Of Our Best Products"
-  content : "See the innovation that has come through the Rio way. As an advancement company, the goal is to continuously find areas to help business push forward. Below you can find the first product available to help you do so."
+  content : "See the innovation that has come through . As a tech company, the goal is to continuously find areas to help business push forward. Below you can find the first product available to help you do so."
   product_item:
   - title : "Ecosystem and the Environment"
     image : "images/product/Screenshot_20220904-215113 (1).png"
