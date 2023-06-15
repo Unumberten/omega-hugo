@@ -45,10 +45,10 @@ product:
   title : "Some Of Our Best Products"
   content : "See the innovation that has come through the Rio way. As an advancement company, the goal is to continuously find areas to help business push forward. Below you can find the first product available to help you do so."
   product_item:
-  - title : "Ecosystem"
+  - title : "Ecosystem and the Environment"
     image : "images/product/product-03.jpg"
-    content : "Omega OS Version 2.0 is the world’s first and only cloud operating system. See how this revolutionarys oftware can become the center of your business."
-    project_url : "#"
+    content : "We created a weather monitering and we want to upscale it to climate modeling system that would predict the impact of climate change."
+    project_url : "https://play.google.com/store/apps/details?id=com.colody.dark&pli=1"
     
   - title : "Objects"
     image : "images/product/product-02.jpg"
@@ -73,6 +73,6 @@ contact:
 ################### call to action #################
 call_to_action:
   enable : true
-  title : "Join the Omega family. <br>Click below to view the career opportunities we have for you."
+  title : "Join the Darkblue family. <br>Click below to view the career opportunities we have for you."
   button_label : "Apply Now"
   button_link : "career"
