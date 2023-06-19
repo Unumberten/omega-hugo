@@ -2,7 +2,7 @@
 banner:
   enable : true
   title : "Darkblue Neural Networks"
-  content : "Software development, Web development"
+  content : "Software development, Web development and app development"
   image : "images/hero-image/hero-slider-01.jpg"
   button:
     enable : true
@@ -74,5 +74,5 @@ contact:
 call_to_action:
   enable : true
   title : "Join the Darkblue family. <br>Click below to view the career opportunities we have for you."
-  button_label : "Apply Now"
+  button_label : "Lets get back to you"
   button_link : "career"
