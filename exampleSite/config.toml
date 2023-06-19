@@ -42,7 +42,7 @@ weight = 5
 
 #################### default parameters ################################
 [params]
-logo = "images/123.jpg"
+logo = "images/2345.png"
 logo_width = "120px"
 # Meta data
 description = "This is meta description"
