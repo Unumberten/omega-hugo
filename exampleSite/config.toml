@@ -42,7 +42,7 @@ weight = 5
 
 #################### default parameters ################################
 [params]
-logo = "https://scontent.fgcj1-1.fna.fbcdn.net/v/t39.30808-6/275977612_370531211603394_12302963412280359_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEhlz5xLHLq-G1EqcK9-iZApHDbInk_0h-kcNsieT_SHzQgTfMOQwYIbzSUmMjb7Ic2gVmBtytDVM-L0ZUTMsNm&_nc_ohc=UKNPPNDbPQQAX9keFwG&_nc_ht=scontent.fgcj1-1.fna&oh=00_AfD28EyzbDbhRpjb2gHxn0NlRBQvAH99x4sThnVXyK2COQ&oe=648F503F"
+logo = "images/123.jpg"
 logo_width = "120px"
 # Meta data
 description = "This is meta description"
