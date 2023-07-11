@@ -2,7 +2,7 @@
 banner:
   enable : true
   title : "Darkblue Neural Networks"
-  content : "Software development, Web development and app development"
+  content : "Software development and Big data"
   image : "images/hero-image/hero-slider-01.jpg"
   button:
     enable : true
